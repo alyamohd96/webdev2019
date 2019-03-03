@@ -1,2 +1,4 @@
-# The Complete 2019 Web Development Bootcamp
-This repository is for the Udemy course The Complete 2019 Web Development Bootcamp by Angela Yu
+# Introduction to HTML and Intermediate HTML
+This folder contains all the sites and images needed for the personal site project. The files here were a result of the following lessons:
+1. Introduction to HTML
+2. Intermediate HTML
